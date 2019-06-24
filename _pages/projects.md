@@ -1,7 +1,7 @@
 ---
 layout: archive
 permaling: /projects/
-title: "Projects"
+title: /Projects/
 author_profile: true
 ---
 
