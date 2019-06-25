@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Elliot Pack"
-  avatar           : "/images/bio_pic_resize.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio_pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data analyst with experience in the government contracting space."
   location         : "Washington D.C."
   email            :
@@ -301,12 +301,4 @@ defaults:
       layout: single
       author_profile: true
 
-#include: ["_pages"]
 
-# _pages
-#- scope:
-#   path: ""
-#    type: pages
-#  values:
-#   layout: single
-#    author_profile: true 
