@@ -1,6 +1,6 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Projects"
+title: "Project Portfolio"
 author_profile: true
 ---
