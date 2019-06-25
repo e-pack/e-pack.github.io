@@ -5,7 +5,7 @@ permalink: /about/
 
 ### **Summary:** Data analyst and government contracting subject matter expert with a BA in Finance and Accounting
 
-### **Experience:**
+### **Professional Experience:**
 
 ##### Baker Tilly - Government Contracting Advisory Services
 ###### Senior Consultant
@@ -20,5 +20,13 @@ permalink: /about/
 + 	Supported accounting department at Healthcare IT contractor 
 + 	Assisted executive team with bid and proposal research 
 + 	Designed implementation plan for paperless accounting system 
+
+### **Technical Expertise:**
++ SQL
++ Excel 
++ Tableau 
++ Python
+
+
 
 
