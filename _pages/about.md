@@ -7,7 +7,7 @@ permalink: /about/
 
 **Experience:**
 
-##Baker## 
+##Baker 
 
 Tilly ##- ##Government ##Contracting ##Advisory ##Services
 *-Provided guidence to government contractor clients on various compliance and regulatory topic areas
