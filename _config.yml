@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Elliot Pack"
   avatar           : "/images/bio_pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data analyst with experience in the government contracting space."
+  bio              : "Data analyst with experience in the government contracting space"
   location         : "Washington D.C."
   email            :
   links:
