@@ -5,11 +5,13 @@ permalink: /about/
 
 <p class="notice"><strong>Summary:</strong> Data analyst and government contracting subject matter expert with a BA in Finance and Accounting</p>
 
-### **Technical Expertise:**
+<p class ="notice">
+<strong>Technical Expertise:</strong>
 + SQL 
 + Mircosoft Office (Excel, Powerpoint, Word, etc.) 
 + Tableau
 + Python (pandas, numpy, matplotlib, etc.)
+</p>
 
 ### **Professional Experience:**
 #### Baker Tilly - Government Contracting Advisory Services
