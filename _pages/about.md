@@ -3,7 +3,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-<strong>Summary: Data analyst and government contracting subject matter expert with a BA in Finance and Accounting</strong>
+<p class="notice"><strong>Summary:</strong> Data analyst and government contracting subject matter expert with a BA in Finance and Accounting</p>
 
 ### **Technical Expertise:**
 + SQL 
