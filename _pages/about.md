@@ -5,13 +5,13 @@ permalink: /about/
 
 <p class="notice"><strong>Summary:</strong> Data analyst and government contracting subject matter expert with a B.A. in Finance and Accounting from the University of Maryland</p>
 
-####Technical Expertise:
+<u><strong>Technical Expertise:</strong></u>
 + SQL 
 + Mircosoft Office (Excel, Powerpoint, Word, etc.) 
 + Tableau
 + Python (pandas, numpy, matplotlib, etc.)
 
-<p><strong>**Professional Experience:</strong></p>
+<u><strong>Professional Experience:</strong></u>
 
 ####Baker Tilly - Government Contracting Advisory Services</p>
 <em>Senior Consultant</em>
